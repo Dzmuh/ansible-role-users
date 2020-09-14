@@ -1,0 +1,26 @@
+---
+galaxy_info:
+  role_name: users
+  author: "Ilya Fralkou (aka Dzmuh)"
+  description: Role for creating users and roles. It is possible to delete a user.
+  license: MIT License
+  min_ansible_version: 2.9
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: opensuse
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+  galaxy_tags:
+    - system
+    - user
+    - users
+
+dependencies: []

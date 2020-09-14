@@ -1,0 +1,10 @@
+{
+    // Code Spell Checker Configuration
+    "cSpell.language": "ru,en",
+    // cSpell.words - list of words to be always considered correct
+    "cSpell.words": [
+        "ansible",
+        "vsts",
+        "workpath",
+    ]
+}
